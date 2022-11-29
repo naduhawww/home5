@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ПУСИК\\Desktop\\home5\\5-2\\5-2.csproj": {}
+    "C:\\Users\\ПУСИК\\Desktop\\С#\\home5\\5-2\\5-2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ПУСИК\\Desktop\\home5\\5-2\\5-2.csproj": {
+    "C:\\Users\\ПУСИК\\Desktop\\С#\\home5\\5-2\\5-2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ПУСИК\\Desktop\\home5\\5-2\\5-2.csproj",
+        "projectUniqueName": "C:\\Users\\ПУСИК\\Desktop\\С#\\home5\\5-2\\5-2.csproj",
         "projectName": "5-2",
-        "projectPath": "C:\\Users\\ПУСИК\\Desktop\\home5\\5-2\\5-2.csproj",
+        "projectPath": "C:\\Users\\ПУСИК\\Desktop\\С#\\home5\\5-2\\5-2.csproj",
         "packagesPath": "C:\\Users\\ПУСИК\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ПУСИК\\Desktop\\home5\\5-2\\obj\\",
+        "outputPath": "C:\\Users\\ПУСИК\\Desktop\\С#\\home5\\5-2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ПУСИК\\AppData\\Roaming\\NuGet\\NuGet.Config"
